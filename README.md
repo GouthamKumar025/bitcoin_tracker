@@ -1,4 +1,4 @@
-[bitcoin_tracker_demo.webm](https://github.com/GouthamKumar025/bitcoin_tracker/assets/113292942/b4111745-9fa1-40bf-990b-0692525693f6)# bitcoin_price_tracker
+# Bitcoin_price_tracker
 
 A new Flutter project.
 
